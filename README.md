@@ -109,14 +109,13 @@ Coffee-Fueled Debugging    █████████████████�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DivyanshuXOR&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=B22222&icon_color=B22222&text_color=FFFFFF" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuXOR&theme=radical&hide_border=true&background=0D0D0D&ring=B22222&fire=B22222&currStreakLabel=FFFFFF" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuXOR&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=B22222&text_color=FFFFFF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DivyanshuXOR&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=B22222&icon_color=B22222&text_color=FFFFFF" width="100%" alt="GitHub stats" style="display:block; margin:0 auto 12px;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuXOR&theme=radical&hide_border=true&background=0D0D0D&ring=B22222&fire=B22222&currStreakLabel=FFFFFF" width="100%" alt="GitHub streak stats" style="display:block; margin:0 auto 12px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuXOR&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=B22222&text_color=FFFFFF" width="100%" alt="Top languages" style="display:block; margin:0 auto 12px;"/>
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=DivyanshuXOR&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DivyanshuXOR&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" alt="GitHub trophies" style="display:block; margin:0 auto;"/>
 
 </div>
 
@@ -140,12 +139,14 @@ Coffee-Fueled Debugging    █████████████████�
 
 <div align="center">
 
-<!-- TODO: Replace PROJECT_ONE and PROJECT_TWO with your actual repo names -->
+<p><strong>Dr.-Strange-AR-Magic-Filter</strong></p>
 <a href="https://github.com/DivyanshuXOR/Dr.-Strange-AR-Magic-Filter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyanshuXOR&repo=Dr.-Strange-AR-Magic-Filter&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=B22222&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyanshuXOR&repo=Dr.-Strange-AR-Magic-Filter&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=B22222&text_color=FFFFFF" alt="Dr.-Strange-AR-Magic-Filter project card" />
 </a>
+
+<p><strong>GitHub-User-Explorer</strong></p>
 <a href="https://github.com/DivyanshuXOR/GitHub-User-Explorer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyanshuXOR&repo=GitHub-User-Explorer&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=B22222&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyanshuXOR&repo=GitHub-User-Explorer&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=B22222&text_color=FFFFFF" alt="GitHub-User-Explorer project card" />
 </a>
 
 </div>
@@ -156,9 +157,9 @@ Coffee-Fueled Debugging    █████████████████�
 
 <div align="center">
 
-<!-- TODO: Replace YOUR_LINK, YOUR_EMAIL, YOUR_PORTFOLIO with your actual URLs -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=B22222)](https://linkedin.com/in/YOUR_LINK)
-[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=B22222)](mailto:YOUR_EMAIL)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=B22222)](https://www.linkedin.com/in/divyanshu-soni-938468334/)
+[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=B22222)](mailto:sonidivyanshu200@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=B22222)](https://YOUR_PORTFOLIO.com)
 
 </div>
@@ -167,7 +168,7 @@ Coffee-Fueled Debugging    █████████████████�
 
 <div align="center">
 
-<sub>"We stand in awe before that which cannot be seen, and we respect with every fiber that which cannot be explained."</sub>
+<sub>⭐ Star a repo if something catches your eye!</sub>
 
 <br>
 
