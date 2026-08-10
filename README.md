@@ -141,12 +141,12 @@ Coffee-Fueled Debugging    █████████████████�
 
 <p><strong>Dr.-Strange-AR-Magic-Filter</strong></p>
 <a href="https://github.com/DivyanshuXOR/Dr.-Strange-AR-Magic-Filter">
-  
+  <img src="https://img.shields.io/badge/Repository-Dr.-Strange-AR-Magic-Filter-000000?style=for-the-badge&logo=github&logoColor=B22222" alt="Dr.-Strange-AR-Magic-Filter repository" />
 </a>
 
 <p><strong>GitHub-User-Explorer</strong></p>
 <a href="https://github.com/DivyanshuXOR/GitHub-User-Explorer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyanshuXOR&repo=GitHub-User-Explorer&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=B22222&text_color=FFFFFF" alt="GitHub-User-Explorer project card" />
+  <img src="https://img.shields.io/badge/Repository-GitHub-User-Explorer-000000?style=for-the-badge&logo=github&logoColor=B22222" alt="GitHub-User-Explorer repository" />
 </a>
 
 </div>
