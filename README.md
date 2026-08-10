@@ -16,9 +16,8 @@
 
 ## 頑張れ — Who Am I
 
-<div align="center">
-  <div style="display:flex; align-items:center; justify-content:center; gap:20px; flex-wrap:wrap;">
-    <pre><code class="language-yaml">name: "Divyanshu"
+<div align="center" style="display:flex; align-items:center; justify-content:center; gap:20px; flex-wrap:wrap;">
+  <pre><code class="language-yaml">name: "Divyanshu"
 title: "Full Stack Developer & AI Explorer"
 division: "13th Division — Full Stack & AI"
 zanpakuto: "React.js × Node.js × Python"
@@ -27,8 +26,7 @@ release_command: "Bankai: Deploy"
 current_reiatsu: "████████░░ 82%"
 status: "Training in the Dangai (building something new)"
 </code></pre>
-    <img src="./assets/ea00b0f4cc9b3a6258ae25ee5aca0801.gif" alt="Divyanshu GIF" width="220" style="border-radius:12px;" />
-  </div>
+  <img src="./assets/ea00b0f4cc9b3a6258ae25ee5aca0801.gif" alt="Divyanshu GIF" width="220" style="border-radius:12px;" />
 </div>
 
 <br>
