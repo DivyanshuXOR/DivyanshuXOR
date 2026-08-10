@@ -109,19 +109,13 @@ Coffee-Fueled Debugging    █████████████████�
 
 <div align="center">
 
-<a href="https://github.com/DivyanshuXOR">
-  <img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=B22222" alt="GitHub profile" />
-</a>
-<a href="https://github.com/DivyanshuXOR?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-000000?style=for-the-badge&logo=github&logoColor=B22222" alt="Explore repositories" />
-</a>
-<a href="https://www.linkedin.com/in/divyanshu-soni-938468334/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=B22222" alt="LinkedIn profile" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=DivyanshuXOR&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=B22222&icon_color=B22222&text_color=FFFFFF" width="100%" alt="GitHub stats" style="display:block; margin:0 auto 12px;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuXOR&theme=radical&hide_border=true&background=0D0D0D&ring=B22222&fire=B22222&currStreakLabel=FFFFFF" width="100%" alt="GitHub streak stats" style="display:block; margin:0 auto 12px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuXOR&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=B22222&text_color=FFFFFF" width="100%" alt="Top languages" style="display:block; margin:0 auto 12px;"/>
 
-<br><br>
+<br>
 
-<p><strong>Focus: Full Stack Development • AI • Computer Vision</strong></p>
+<img src="https://github-profile-trophy.vercel.app/?username=DivyanshuXOR&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" alt="GitHub trophies" style="display:block; margin:0 auto;"/>
 
 </div>
 
@@ -147,12 +141,12 @@ Coffee-Fueled Debugging    █████████████████�
 
 <p><strong>Dr.-Strange-AR-Magic-Filter</strong></p>
 <a href="https://github.com/DivyanshuXOR/Dr.-Strange-AR-Magic-Filter">
-  <img src="https://img.shields.io/badge/Repository-Dr.-Strange-AR-Magic-Filter-000000?style=for-the-badge&logo=github&logoColor=B22222" alt="Dr.-Strange-AR-Magic-Filter repository" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyanshuXOR&repo=Dr.-Strange-AR-Magic-Filter&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=B22222&text_color=FFFFFF" alt="Dr.-Strange-AR-Magic-Filter project card" />
 </a>
 
 <p><strong>GitHub-User-Explorer</strong></p>
 <a href="https://github.com/DivyanshuXOR/GitHub-User-Explorer">
-  <img src="https://img.shields.io/badge/Repository-GitHub-User-Explorer-000000?style=for-the-badge&logo=github&logoColor=B22222" alt="GitHub-User-Explorer repository" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyanshuXOR&repo=GitHub-User-Explorer&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=B22222&text_color=FFFFFF" alt="GitHub-User-Explorer project card" />
 </a>
 
 </div>
