@@ -16,8 +16,9 @@
 
 ## 頑張れ — Who Am I
 
-```yaml
-name: "Divyanshu"
+<div align="center">
+  <div style="display:flex; align-items:center; justify-content:center; gap:20px; flex-wrap:wrap;">
+    <pre><code class="language-yaml">name: "Divyanshu"
 title: "Full Stack Developer & AI Explorer"
 division: "13th Division — Full Stack & AI"
 zanpakuto: "React.js × Node.js × Python"
@@ -25,7 +26,10 @@ bankai: "Machine Learning & Computer Vision"
 release_command: "Bankai: Deploy"
 current_reiatsu: "████████░░ 82%"
 status: "Training in the Dangai (building something new)"
-```
+</code></pre>
+    <img src="./assets/ea00b0f4cc9b3a6258ae25ee5aca0801.gif" alt="Divyanshu GIF" width="220" style="border-radius:12px;" />
+  </div>
+</div>
 
 <br>
 
@@ -107,17 +111,30 @@ Coffee-Fueled Debugging    █████████████████�
 
 ## ⚡ Reiatsu Stats
 
-<div align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuXOR&theme=radical&hide_border=true&background=0D0D0D&ring=B22222&fire=B22222&currStreakLabel=FFFFFF" width="100%" alt="GitHub streak stats" style="display:block; margin:0 auto 12px;"/>
-
-
-
-
-
-
+<div align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=DivyanshuXOR&show_icons=true&theme=github_dark&bg_color=0D0D0D&border_color=B22222&icon_color=B22222&title_color=B22222&text_color=FFFFFF&rank_icon=github&count_private=true&hide_border=false"><img src="https://github-readme-stats.vercel.app/api?username=DivyanshuXOR&show_icons=true&theme=github_dark&bg_color=0D0D0D&border_color=B22222&icon_color=B22222&title_color=B22222&text_color=FFFFFF&rank_icon=github&count_private=true&hide_border=false" width="49%" alt="GitHub Stats" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://streak-stats.demolab.com?user=DivyanshuXOR&theme=dark&background=0D0D0D&border=B22222&stroke=B22222&ring=B22222&fire=B22222&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8b949e&currStreakNum=FFFFFF&sideNums=FFFFFF"><img src="https://streak-stats.demolab.com?user=DivyanshuXOR&theme=dark&background=0D0D0D&border=B22222&stroke=B22222&ring=B22222&fire=B22222&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8b949e&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%" alt="GitHub Streak" style="max-width: 100%;"></a>
+<br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuXOR&layout=compact&theme=github_dark&bg_color=0D0D0D&border_color=B22222&title_color=B22222&text_color=FFFFFF&langs_count=10&hide_border=false"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuXOR&layout=compact&theme=github_dark&bg_color=0D0D0D&border_color=B22222&title_color=B22222&text_color=FFFFFF&langs_count=10&hide_border=false" width="40%" alt="Top Languages" style="max-width: 100%;"></a>
+&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuXOR&layout=donut&theme=github_dark&bg_color=0D0D0D&border_color=B22222&title_color=B22222&text_color=FFFFFF&langs_count=6&hide_border=false"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuXOR&layout=donut&theme=github_dark&bg_color=0D0D0D&border_color=B22222&title_color=B22222&text_color=FFFFFF&langs_count=6&hide_border=false" width="34%" alt="Languages Donut" style="max-width: 100%;"></a>
+<br>
+<p dir="auto"><a href="https://github.com/DivyanshuXOR"><img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshuXOR&theme=github-compact&bg_color=0D0D0D&color=B22222&line=B22222&point=FFFFFF&area=true&area_color=161b22&hide_border=true" alt="Activity Graph" style="max-width: 100%;"></a></p>
+<br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivyanshuXOR&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivyanshuXOR&theme=github_dark" width="100%" alt="Profile Details" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DivyanshuXOR&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DivyanshuXOR&theme=github_dark" width="32%" alt="Repos Per Language" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DivyanshuXOR&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DivyanshuXOR&theme=github_dark" width="32%" alt="Most Commit Language" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DivyanshuXOR&theme=github_dark&utcOffset=5.5"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DivyanshuXOR&theme=github_dark&utcOffset=5.5" width="32%" alt="Productive Time" style="max-width: 100%;"></a>
 </div>
+
+
+
+
+
+
+
+
+
 
 <br>
 
