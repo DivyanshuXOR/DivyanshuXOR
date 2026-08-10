@@ -109,13 +109,13 @@ Coffee-Fueled Debugging    █████████████████�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DivyanshuXOR&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=B22222&icon_color=B22222&text_color=FFFFFF" width="100%" alt="GitHub stats" style="display:block; margin:0 auto 12px;"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuXOR&theme=radical&hide_border=true&background=0D0D0D&ring=B22222&fire=B22222&currStreakLabel=FFFFFF" width="100%" alt="GitHub streak stats" style="display:block; margin:0 auto 12px;"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuXOR&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=B22222&text_color=FFFFFF" width="100%" alt="Top languages" style="display:block; margin:0 auto 12px;"/>
 
-<br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=DivyanshuXOR&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" alt="GitHub trophies" style="display:block; margin:0 auto;"/>
+
+
+
 
 </div>
 
@@ -141,7 +141,7 @@ Coffee-Fueled Debugging    █████████████████�
 
 <p><strong>Dr.-Strange-AR-Magic-Filter</strong></p>
 <a href="https://github.com/DivyanshuXOR/Dr.-Strange-AR-Magic-Filter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyanshuXOR&repo=Dr.-Strange-AR-Magic-Filter&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=B22222&text_color=FFFFFF" alt="Dr.-Strange-AR-Magic-Filter project card" />
+  
 </a>
 
 <p><strong>GitHub-User-Explorer</strong></p>
